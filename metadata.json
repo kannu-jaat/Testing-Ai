@@ -1,0 +1,6 @@
+{
+  "name": "Krishna Library",
+  "description": "Study smarter with verified attendance and easy fee tracking inside Krishna Library.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
